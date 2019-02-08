@@ -79,14 +79,14 @@
   <meta http-equiv="x-pjax-version" content="fbadb8e015195b60807fa0805af44d14">
   
 
-      <link href="https://github.com/abenjamin765/camera-app/commits/master.atom" rel="alternate" title="Recent Commits to camera-app:master" type="application/atom+xml">
+      <link href="https://github.com/lynettetay/cam2/commits/master.atom" rel="alternate" title="Recent Commits to camera-app:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/abenjamin765/camera-app git https://github.com/abenjamin765/camera-app.git">
+  <meta name="go-import" content="github.com/lynettetay/cam2 git https://github.com/lynettetay/cam2.git">
 
-  <meta name="octolytics-dimension-user_id" content="8422137" /><meta name="octolytics-dimension-user_login" content="abenjamin765" /><meta name="octolytics-dimension-repository_id" content="130384456" /><meta name="octolytics-dimension-repository_nwo" content="abenjamin765/camera-app" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="130384456" /><meta name="octolytics-dimension-repository_network_root_nwo" content="abenjamin765/camera-app" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="8422137" /><meta name="octolytics-dimension-user_login" content="lynettetay" /><meta name="octolytics-dimension-repository_id" content="130384456" /><meta name="octolytics-dimension-repository_nwo" content="lynettetay/cam2" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="130384456" /><meta name="octolytics-dimension-repository_network_root_nwo" content="lynettetay/cam2" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/abenjamin765/camera-app/blob/master/part-2/app.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/lynettetay/cam2/blob/master/app.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">

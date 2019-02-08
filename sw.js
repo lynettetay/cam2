@@ -28,14 +28,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>camera-app/sw.js at master · abenjamin765/camera-app · GitHub</title>
-    <meta name="description" content="Super awesome camera web app built with HTML, CSS, and JS. - abenjamin765/camera-app">
+  <title>camera-app/sw.js at master · lynettetay/cam2 · GitHub</title>
+    <meta name="description" content="Super awesome camera web app built with HTML, CSS, and JS. - lynettetay/cam2">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/8422137?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="abenjamin765/camera-app" /><meta property="og:url" content="https://github.com/abenjamin765/camera-app" /><meta property="og:description" content="Super awesome camera web app built with HTML, CSS, and JS. - abenjamin765/camera-app" />
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/8422137?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="lynettetay/cam2" /><meta property="og:url" content="https://github.com/lynettetay/cam2" /><meta property="og:description" content="Super awesome camera web app built with HTML, CSS, and JS. - lynettetay/cam2" />
 
   <link rel="assets" href="https://github.githubassets.com/">
   
